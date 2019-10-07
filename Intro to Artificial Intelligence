@@ -25,3 +25,70 @@ AI can be described in 3 differnt ways based on Strength, Breadth, and  Applicat
   3.Super AI or Conscious AI-->  This AI with human level consciousness, which would require it to be self aware. Because we are not yet 
                                  able to adequate define what consciousness is, it is unlikely that we will be able to create a 
                                  consciousness AI in near future.
+                                 
+                                 
+                                 
+AI is fusion of many study.
+
+AI algorithms that learn by example are the reason we can talk to Watson, Alexa, Siri, Cortana, and Google Assistant and 
+they can talk back to us.
+
+Some of the them who are interested in learning or want to know about AI are having a misconception among the related terms and concepts of AI like
+1.Artificial Intelligence
+2.Machine Learning
+3.Deep Learning
+4.Neural Network
+
+
+Artificial Intelligence-->Its a branch of Computer Science dealing with simulation of intelligent behaviour.
+
+Machine Learning-->A subset of AI that uses computer algorithms to analyze data and make intelligent decisions 
+                  based on what has learned, without being explicitly programmed.
+                  These are trained with large sets of data
+                  They don’t follow rule-based algorithm
+                  They learn from Examples
+                  This enables machine to solve problems on their own and make decision using accurate providing data.
+                  
+ Deep Learning--> A specialized subset of Machine Learning that uses layered neural network to simulate human decision making.
+                  Deep Learning algorithms are label and categorize information and identify patterns.                
+                  
+Neural Network--> This is Artificial Neural Network, take inspiration from biological neural networks,
+                    although they work a bit differently.
+                    A Neural Network in AI is collection if small computing units called neurons that take incoming data
+                    and learn to make decision over time.                  
+                    
+                    
+                    
+Okay now what is Data Science and How it is different from AI..?
+
+Data Science- Its the process and method for extracting knowledge and insights from large volumes of disparate data.
+              It involves- Mathematics, Statistical analysis, data visualization, Machine Learning and many more.
+              It could use- Machine Learning algorithm, Deep Learning models.
+              Its’a broad term- Encompasses the entire data processing methodology.
+              
+Both AI and Data Science can involve the use of Big Data.
+
+
+So let’s go back and discuss the different types of learning for AI
+
+Supervised Learning- An algorithm is trained on human-labelled data. The more samples you provide a supervised learning algorithm,
+                     the more precise it becomes in classifying new data. The different categories are 
+                     a.Regression b.Classification c.Neural Network
+                     
+Unsupervised Learning- Relies on giving the algorithm unlabeled data and letting it find patterns by itself. 
+                       You provide the input, but not labels and let the machine infer qualities.
+                       
+Reinforcement Learning- Relies on providing a Machine Learning algorithm with a set of rules and constraints 
+                        and letting it learn how to achieve its goal. You define the state, the desired goal, allowed actions
+                        and constraints.
+                        
+Neural Networks are the reason Deep Learning can continiously learn on job and improve the quality an
+          accuracy of results as dataset increase in volume over time.          
+Neural Networks learn through a process called “Backpropagation”.
+
+
+Backpropagation: uses a set of training data that match known inputs to desired output. First, the input are plugged into the network
+                 and output are determined. Then an error function determines how far the given output is from desired output.
+                 Finally adjustments are made in order to reduce errors.
+                 
+Perceptrons: The simplest and oldest types of Neural Network.                    
