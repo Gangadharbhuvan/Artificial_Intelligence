@@ -1,2 +1,3 @@
 # Artificial_Intelligence
-All about Artificial Intelligence 
+# AI
+Everithing about Artificial Intelligence 
